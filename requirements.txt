@@ -1,5 +1,5 @@
 Sphinx>=1.3.1
-sphinx_rtd_theme>=0.1.9
+git+git://github.com/almcc/sphinx_rtd_theme.git@master
 sphinxcontrib-blockdiag
 sphinxcontrib-seqdiag
 sphinxcontrib-actdiag
